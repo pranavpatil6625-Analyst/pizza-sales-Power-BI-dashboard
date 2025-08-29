@@ -29,10 +29,6 @@ The goal was to identify sales trends, bestsellers, peak order times, and provid
 
 - `README.md` → Project documentation
 
----
-
-## 📊 Dashboard Preview
-![Pizza Sales Dashboard](Pizza_Sales_Dashboard.png)
 
 ---
 
@@ -43,3 +39,9 @@ The goal was to identify sales trends, bestsellers, peak order times, and provid
 
 ## 🙌 Acknowledgement
 Dataset by Kaggle community, visualized & analyzed in Power BI.
+
+---
+
+## 📊 Dashboard Preview
+![Pizza Sales Dashboard](https://github.com/pranavpatil6625-Analyst/pizza-sales-Power-BI-dashboard/blob/main/Screenshot%202025-08-29%20145650.png)
+
